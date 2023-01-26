@@ -1,0 +1,6 @@
+node_modules/
+docs/.vitepress/temp/
+docs/.vitepress/cache/
+
+yarn.lock
+package-lock.json
