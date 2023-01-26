@@ -3,7 +3,7 @@
 暮雪酱 (YukiChan) 是一个全新开发的 QQ 平台聊天机器人 (Bot)，基于 .NET 7 + C#，使用 [Flandre](https://github.com/FlandreDevs/Flandre) 框架开发。
 
 ## 与暮雪酱 v1 的区别？
-暮雪酱 v1 版本基于 [Konata.Core](https://github.com/KonataDev/Konata.Core) 开发。Konata 仅是 QQ 协议的实现，也就是说只能在 QQ 中使用，而无法扩展到其他平台。考虑到暮雪酱的前身 [lancelot.bot](/lancelot/) 在 QQ 频道仍留有大量用户，v2 版本切换到了跨平台的 [Flandre](https://github.com/FlandreDevs/Flandre) 框架。基于框架的可扩展性，未来也有可能在 Telegram、Discord 或开黑啦等平台上提供服务。
+暮雪酱 v1 版本基于 [Konata.Core](https://github.com/KonataDev/Konata.Core) 开发。Konata 仅是 QQ 协议的实现，也就是说只能在 QQ 中使用，而无法扩展到其他平台。考虑到暮雪酱的前身 [lancelot.bot](https://docs.sorabs.cc/lancelot/) 在 QQ 频道仍留有大量用户，v2 版本切换到了跨平台的 [Flandre](https://github.com/FlandreDevs/Flandre) 框架。基于框架的可扩展性，未来也有可能在 Telegram、Discord 或开黑啦等平台上提供服务。
 
 为了和 v1 版本区分开，暮雪 v2 切换回了 lancelot 曾使用的 `/` 指令前缀，并保留了选项系统，和 lancelot 应该会有较为无缝的体验。
 
