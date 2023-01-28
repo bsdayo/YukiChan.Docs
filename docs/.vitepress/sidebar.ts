@@ -6,7 +6,8 @@ const sidebar: DefaultTheme.Sidebar = {
       text: '暮雪酱 v3',
       items: [
         { text: '简介', link: '/v3/index.md' },
-        { text: '指令简介', link: '/v3/intro.md' },
+        { text: '用户协议', link: '/v3/policy.md' },
+        { text: '基本用法', link: '/v3/intro.md' },
         { text: 'Arcaea - Arcaea 相关功能', link: '/v3/arcaea.md' },
         { text: 'BaiduTranslate - 百度翻译', link: '/v3/trans.md' },
         { text: 'WolframAlpha - Wolfram Alpha 搜索', link: '/v3/wolframalpha.md' },
