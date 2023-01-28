@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as n,a as e}from"./app.e4d45ae9.js";const u=JSON.parse('{"title":"指令简介","description":"","frontmatter":{},"headers":[],"relativePath":"v2/intro.md","lastUpdated":1674904496000}'),o={name:"v2/intro.md"},p=e("",13),c=[p];function t(l,d,r,i,b,_){return n(),s("div",null,c)}const g=a(o,[["render",t]]);export{u as __pageData,g as default};
