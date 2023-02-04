@@ -357,6 +357,36 @@ _看格式可能不太好看懂 推荐直接看下面示例_
 ```
 :::
 
+### /a submit-alias - 提交别名申请
+
+**指令格式**
+
+```
+/a submit-alias <曲目名称> <曲目别名>
+```
+
+::: details 使用示例
+- 为曲目 Tempestissimo 提交一个别名“风暴”
+```
+/a submit-alias tempestissimo 风暴
+```
+:::
+
+### /a submit-alias-status - 查看别名申请处理进度
+
+**指令格式**
+
+```
+/a submit-alias-status <申请ID>
+```
+
+::: details 使用示例
+- 查看 ID 为 233 的别名申请进度
+```
+/a submit-alias-status 233
+```
+:::
+
 ## 常见问题
 
 ### potential is below the threshold of querying best30 (7.0)
