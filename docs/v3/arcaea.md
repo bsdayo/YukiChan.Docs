@@ -337,6 +337,7 @@ _看格式可能不太好看懂 推荐直接看下面示例_
 | `nya`     | 开关 | `false` |
 | `dark`    | 开关 | `false` |
 | `single_dynamic_bg` | 开关 | `true` |
+| `b30_show_grade` | 开关 | `true` |
 
 ::: details 使用示例
 - 将所有展示曲绘的功能预先设置为猫猫曲绘。这样单独使用 `/a b30` 等展示的也是猫猫曲绘了。
