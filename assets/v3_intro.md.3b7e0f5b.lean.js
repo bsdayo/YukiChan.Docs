@@ -1,0 +1,1 @@
+import{_ as s,c as e,o as a,Q as n}from"./chunks/framework.e7dbb61d.js";const b=JSON.parse('{"title":"基本用法","description":"","frontmatter":{},"headers":[],"relativePath":"v3/intro.md","lastUpdated":1678801189000}'),p={name:"v3/intro.md"},o=n("",20),l=[o];function c(t,i,d,r,g,h){return a(),e("div",null,l)}const y=s(p,[["render",c]]);export{b as __pageData,y as default};
