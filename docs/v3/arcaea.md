@@ -384,9 +384,3 @@ _看格式可能不太好看懂 推荐直接看下面示例_
 /a submit-alias-status 233
 ```
 :::
-
-## 常见问题
-
-### potential is below the threshold of querying best30 (7.0)
-
-你的 ptt（潜力值）没有到达 7.0 及以上，还不能使用 AUA 查分哦~ 努力提升吧

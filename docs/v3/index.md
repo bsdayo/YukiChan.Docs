@@ -22,9 +22,11 @@
 [这里](./gallery.md) 有一些图查的预览图片，相信你会喜欢的（笑
 
 ## 遇到问题？
-对于 QQ 用户，你可以加入我们的 QQ 群 **883632773** 反馈。  
-对于 QQ 频道用户，你可以加入我们的频道 [e0r35nc9e2](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=11UIUD&businessType=9&from=246610&biz=ka)。  
-或者，通过 [邮箱 (bs@sorabs.cc)](mailto:bs@sorabs.cc) 联系我。
+首先，你可以查看[常见问题](faq.md)页。
+如果没有解决：
+- 对于 QQ 用户，你可以加入我们的 QQ 群 **883632773** 反馈。  
+- 对于 QQ 频道用户，你可以加入我们的频道 [e0r35nc9e2](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=11UIUD&businessType=9&from=246610&biz=ka) 反馈。  
+- 或者，通过 [邮箱 (bs@sorabs.cc)](mailto:bs@sorabs.cc) 联系我。
 
 ::: tip 关于 Flandre
 Flandre 是我为适应跨平台需求，而全新开发的机器人框架，拥有开箱即用的指令系统、插件系统，和众多简化机器人开发流程的组件。目前已经在 GitHub 上开源，仓库地址 [https://github.com/FlandreDevs/Flandre](https://github.com/FlandreDevs/Flandre)，欢迎 star qwq

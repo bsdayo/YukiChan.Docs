@@ -1,6 +1,6 @@
 import { DefaultTheme, defineConfigWithTheme } from 'vitepress'
 
-import nav from './navbar'
+import nav from './nav'
 import sidebar from './sidebar'
 
 export default defineConfigWithTheme<DefaultTheme.Config>({
