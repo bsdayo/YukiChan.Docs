@@ -1,3 +1,7 @@
+::: danger 本页面已归档！
+本页面为 v2 版本的旧文档，已经过时并停止更新。你可以前往[暮雪酱 v3 文档](../v3/)查看当前最新版本。
+:::
+
 # WolframAlpha - Wolfram Alpha 搜索
 
 [Wolfram Alpha](https://www.wolframalpha.com/) 是一个由 Wolfram 公司基于科学计算软件 Mathematica 开发的科学知识引擎。其除了具有强大的数学计算功能外，还涉及物理、化学、人文、金融、日常生活等诸多领域。

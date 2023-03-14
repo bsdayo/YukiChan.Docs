@@ -14,8 +14,6 @@ const sidebar: DefaultTheme.Sidebar = {
         { text: 'Gosen - 五千兆元图片生成', link: '/v3/gosen.md' },
         { text: '杂项', link: '/v3/misc.md' },
         { text: '图查预览', link: '/v3/gallery.md' },
-        { text: 'v1 版本文档', link: '/v1/index.md' },
-        { text: 'v2 版本文档', link: '/v2/index.md' },
       ],
     },
   ],

@@ -19,6 +19,10 @@ export default defineConfigWithTheme<DefaultTheme.Config>({
   },
 
   themeConfig: {
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/bsdayo/YukiChan' },
+    ],
+
     lastUpdatedText: '最近更新',
     sidebarMenuLabel: '菜单',
     returnToTopLabel: '回到顶部',
