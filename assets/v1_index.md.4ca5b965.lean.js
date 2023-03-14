@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,Q as o}from"./chunks/framework.e7dbb61d.js";const b=JSON.parse('{"title":"暮雪酱 v1","description":"","frontmatter":{},"headers":[],"relativePath":"v1/index.md","lastUpdated":1678805591000}'),r={name:"v1/index.md"},c=o("",7),n=[c];function d(s,l,i,_,p,h){return t(),a("div",null,n)}const f=e(r,[["render",d]]);export{b as __pageData,f as default};
