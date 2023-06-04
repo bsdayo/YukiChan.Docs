@@ -1,3 +1,5 @@
+<VersionOutdated />
+
 # BaiduTranslate - 百度翻译
 
 ## 指令帮助

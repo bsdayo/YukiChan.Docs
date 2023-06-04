@@ -1,3 +1,5 @@
+<VersionOutdated />
+
 # WolframAlpha - Wolfram Alpha 搜索
 
 [Wolfram Alpha](https://www.wolframalpha.com/) 是一个由 Wolfram 公司基于科学计算软件 Mathematica 开发的科学知识引擎。其除了具有强大的数学计算功能外，还涉及物理、化学、人文、金融、日常生活等诸多领域。

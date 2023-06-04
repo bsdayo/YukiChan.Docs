@@ -1,3 +1,5 @@
+<VersionOutdated />
+
 # Arcaea - Arcaea 相关功能
 
 ## 指令帮助

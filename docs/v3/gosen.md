@@ -1,3 +1,5 @@
+<VersionOutdated />
+
 # Gosen - 五千兆円图片生成
 
 ## 指令帮助

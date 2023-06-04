@@ -5,6 +5,32 @@ function item(text: string, link: string) {
 }
 
 const sidebar: DefaultTheme.Sidebar = {
+  '/v4/': [
+    {
+      text: '暮雪酱 Revive v4',
+      items: [
+        item('简介', '/v4/index.md'),
+        item('基本用法', '/v4/intro.md'),
+        {
+          text: '功能介绍',
+          items: [
+            item('Arcaea 相关', '/v4/arcaea.md'),
+            item('杂项', '/v4/misc.md'),
+          ],
+        },
+        item('图查预览', '/v4/gallery.md'),
+        item('常见问题', '/v4/faq.md'),
+        {
+          text: '自行部署',
+          items: [
+            item('概述', '/v4/hosting/index.md'),
+            item('Docker', '/v4/hosting/docker.md'),
+            item('手动编译', '/v4/hosting/compile.md'),
+          ],
+        },
+      ],
+    },
+  ],
   '/v3/': [
     {
       text: '暮雪酱 v3',

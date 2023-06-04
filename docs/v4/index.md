@@ -1,6 +1,4 @@
-<VersionOutdated />
-
-# 暮雪酱 v3
+# 暮雪酱 Revive v4
 
 暮雪酱 一款完全公益性质的功能性聊天机器人，主要为广大 Arcaea 玩家提供查分服务，基于 .NET 7 + [Flandre](https://github.com/FlandreDevs/Flandre) 框架开发。
 
